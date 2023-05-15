@@ -28,3 +28,9 @@ func main() {
 	n := map[string]int{"foo": 1, "bar": 2}
 	fmt.Println("map:", n)
 }
+
+/* To run this use
+go run --filename
+			or
+go build --filename and then ./--filename
+*/

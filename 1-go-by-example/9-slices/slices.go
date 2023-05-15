@@ -45,3 +45,9 @@ func main() {
 	}
 	fmt.Println("2d: ", twoD)
 }
+
+/* To run this use
+go run --filename
+			or
+go build --filename and then ./--filename
+*/
